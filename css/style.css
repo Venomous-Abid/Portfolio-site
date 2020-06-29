@@ -57,3 +57,23 @@ body{
 	margin: auto;
 	border-bottom: 1px #ddd solid;
 }
+
+#projects img {
+	margin-top: -50px;
+}
+
+#projects .fa {
+	font-size: 20px;
+}
+
+#projects .card:hover {
+	background: #3292a6;
+	color: #fff;
+}
+
+#projects .card:hover .fa {
+	color: #fff;
+}
+#projects .card:hover p {
+	color: #fff;
+}
