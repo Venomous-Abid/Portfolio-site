@@ -74,6 +74,12 @@ body{
 #projects .card:hover .fa {
 	color: #fff;
 }
-#projects .card:hover p {
+#projects .card:hover h5 {
 	color: #fff;
+}
+
+#contact .fa {
+
+	margin-top: 15px;
+	margin-right: 6px;
 }
